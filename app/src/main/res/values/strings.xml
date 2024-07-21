@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">openin-app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="dashboard">
+        Dashboard
+    </string>
+    <string name="good_morning">Good morning</string>
+    <string name="view_analytics">View Analytics</string>
+    <string name="top_links">Top Links</string>
+    <string name="recent_links">Recent Links</string>
+    <string name="clicks">Clicks</string>
+    <string name="view_all_links">View all Links</string>
+    <string name="talk_with_us">Talk with us</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="overview">Overview</string>
+</resources>
